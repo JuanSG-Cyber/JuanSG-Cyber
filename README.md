@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/juan_sebs_g/">
   <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://x.com/gomezsebastianj?s=11">
+<a href="@gomezsebastianj">
   <img align="left" alt="Jaskirat's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
 
