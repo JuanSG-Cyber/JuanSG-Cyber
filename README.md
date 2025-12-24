@@ -22,7 +22,7 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I am currently a student taking courses at HarvardX and MiTx.
+- 👨🏽‍💻 I am currently a student taking courses at HarvardX and MiTX.
 - 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
 - 🤔 My interest lies in front end Games development.
 - 💬 Ask me about anything, I love to answer!
