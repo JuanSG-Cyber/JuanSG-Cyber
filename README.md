@@ -2,9 +2,6 @@
 
 <h3 title="hehehe"> Hey 👋, I'm Juan Sebastian G!</h3>
 
-<a href="https://www.linkedin.com/in/jaskirat-singh-009348178">
-  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 <a href="https://www.instagram.com/juan_sebs_g/">
   <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -25,7 +22,7 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student COURSE HarvardX end MiTx.
+- 👨🏽‍💻 I am currently a student taking courses at HarvardX and MiTx.
 - 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
 - 🤔 My interest lies in front end Games development.
 - 💬 Ask me about anything, I love to answer!
