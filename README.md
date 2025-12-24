@@ -25,9 +25,9 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at GTBIT, GGSIPU
+- 👨🏽‍💻 I’m currently a CSE Undergrad student COURSE HarvardX end MiTx.
 - 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
-- 🤔 My interest lies in front end web development.
+- 🤔 My interest lies in front end Games development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [gomezjuansebastian354@gmail.com](mailto:gomezjuansebastian354@gmail.com).
 
